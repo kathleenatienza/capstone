@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">last</string>
+    <string name="home">Home</string>
+    <string name="flood">FLOOD</string>
+    <string name="earthquake">EARTHQUAKE</string>
+    <string name="landslide">LANDSLIDE</string>
+    <string name="typhoon">TYPHOON</string>
+    <string name="fire">FIRE</string>
+    <string name="eruption">ERUPTION</string>
+    <string name="volcanic">VOLCANIC</string>
+    <string name="picture_of_earthquake">Picture of Earthquake</string>
+    <string name="picture_of_landslide">Picture of landslide</string>
+    <string name="picture_of_typhoon">Picture of typhoon</string>
+    <string name="volcano">Volcano</string>
+    <string name="picture_of_fire">Picture of fire</string>
+    <string name="picture_of_flood">Picture of flood</string>
+    <string name="earthquakepicture">Earthquakepicture</string>
+    <string name="drop_cover_hold_on">Drop, Cover, Hold On</string>
+    <string name="after_an_earthquake">After an Earthquake</string>
+    <string name="outside_or_in_a_car">Outside or In a Car</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
